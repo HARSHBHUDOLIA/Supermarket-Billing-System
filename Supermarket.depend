@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652722956 source:c:\users\aivan\onedrive\desktop\supermarket\billing.cpp
+	<iostream>
+	<fstream>
+
+1652722993 source:c:\users\aivan\onedrive\desktop\supermarket\main.cpp
+	<iostream>
+	<fstream>
+
